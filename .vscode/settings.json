@@ -1,0 +1,11 @@
+{
+    "editor.defaultFormatter": "ms-python.autopep8",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "[r]": {
+        "editor.defaultFormatter": "REditorSupport.r"
+    },
+    "[rmd]": {
+        "editor.defaultFormatter": "REditorSupport.r"
+    }
+}
